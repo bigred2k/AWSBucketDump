@@ -3,6 +3,8 @@ backup
 bak
 bank
 confidential
+creds
+credentials
 csv
 finance
 financial
@@ -13,6 +15,7 @@ personal
 secret
 settings.php
 sql
+ssh
 ssn
 tax
 user
