@@ -1,4 +1,5 @@
 account
+auth
 backup
 bak
 bank
@@ -14,6 +15,7 @@ finance
 financial
 internal
 invoice
+.key
 password
 pass
 passwd
@@ -34,5 +36,5 @@ tax
 user
 vpn
 wp-config
-xls
-zip
+.xls
+.zip
